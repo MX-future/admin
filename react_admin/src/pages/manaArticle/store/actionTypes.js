@@ -1,0 +1,1 @@
+//manaArticle actionTypes
